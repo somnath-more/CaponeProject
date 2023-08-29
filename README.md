@@ -1,1 +1,1 @@
-# CaponeProject
+# react-typescript-webpack-starter from Practisetsx of Capone Project in main branch
